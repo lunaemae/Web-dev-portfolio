@@ -1,2 +1,5 @@
 # html-portfolio
-My first html portfolio ever, created to to learn more about building websites
+Welcome! This is my first ever portfolio, HTML based. 
+I hope to learn more about building websites through this project(?)
+My first ever website has been hosted, and I'll keep adding additional chnages I learn more.
+Thankyou 
