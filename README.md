@@ -5,4 +5,4 @@ My first ever website has been hosted, and I'll keep adding additional chnages I
 Thankyou 
 
 
-Link to website: https://lunaemae.github.io/html-portfolio/
+Link to website: https://lunaemae.github.io/Web-dev-portfolio/
